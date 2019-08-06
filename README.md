@@ -6,4 +6,4 @@
  # How to Play
  File Explorer will be appear in the starting, just select the .nv file in your directory and select it. Then the player will play the chart.
  # How to make custom chart
- Refer to the manual(https://nosview.tk/view/Manual.html)(Korean Only)
+ Refer to the manual(https://nosview.tk/view/Manual.html )(Korean Only)
